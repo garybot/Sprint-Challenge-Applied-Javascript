@@ -59,5 +59,4 @@ function Carousel() {
     return carousel;
 }
 
-console.log(Carousel());
 document.querySelector(".carousel-container").appendChild(Carousel());
